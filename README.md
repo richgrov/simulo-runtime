@@ -2,6 +2,14 @@
 
 Software for creating and managing projection mapping experiences.
 
+![This code isn't abandoned- it's done.](.github/done.png)
+
+When I started this project, I had worries about getting a job. I was faced with constant no-reply rejection from
+recruiters. I decided to go **all-in** on building a company around a product I personally wanted. I was able to deploy
+this project to incredible places across my state, and one of them (an immersive theme park) just so happened to offer
+me a job! I achieved the dream of building immersive and interactive experiences thanks to this project. I hope it
+serves as inspiration for someone else, too.
+
 Demo video:
 
 [![Simulo Demo Video](https://img.youtube.com/vi/tMbLb4fy-kw/0.jpg)](https://www.youtube.com/watch?v=tMbLb4fy-kw)
